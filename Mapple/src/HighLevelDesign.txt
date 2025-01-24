@@ -1,0 +1,14 @@
+Overview
+We are creating a game website called Mapple where the user has to guess a
+country on the world map until they guess the correct country. Throughout
+the game they will be given an indication of whether they are close to the
+answer through the game telling them that they are getting either hotter
+or colder
+
+Website Layout
+How to Play Page
+Login Page
+Game Page
+Game Over Page
+Leaderboard Page
+Settings Page
