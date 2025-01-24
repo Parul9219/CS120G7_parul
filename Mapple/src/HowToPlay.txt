@@ -1,0 +1,6 @@
+The aim of the game is to guess the mystery country with the least amount of guesses. After the
+user guesses, the country they stated will change colour which indicates how close the user is to
+the mystery country. The darker colour of red the country is, the closer the user is to guessing
+the country.
+
+A new mystery country will be available daily.

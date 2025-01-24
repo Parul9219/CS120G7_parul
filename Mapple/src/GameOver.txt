@@ -1,0 +1,8 @@
+This page will be shown once the user has guesses the mystery country.
+It will indicate:
+the last time the user won a game
+how many guesses it took the user to guess the country
+how many games the user has won
+the users average guesses
+their score (lower the score the better)
+where the user sits on the leaderbord
