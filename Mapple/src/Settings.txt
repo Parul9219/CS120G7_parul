@@ -1,0 +1,9 @@
+In this screen user will be able to make change in different Categories of settings.
+
+In General settings we will have option of Language selection to choose from supported languages default will be English
+
+In Audio settings we will have Sound Effects, Ambient Sound, Music Volume under Volume controls and Mute All options to let user select
+
+In Gameplay Settings we will have Difficulty Level(Easy , Normal , Hard) to user select one of them
+
+In Account Settings under which we will have Profile Customization, Privacy settings, Social Settings(to share the result over social media)
