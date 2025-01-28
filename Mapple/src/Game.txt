@@ -1,0 +1,12 @@
+In this screen the game will be played
+
+There will be a picture of a world map with a black lines dividing each country's
+borders
+Below this picture there will be a text box prompting the user to enter their guess.
+
+Upon entering a legitimate country into the prompt, the game will light up that country
+with a colour ranging from blue to red, with blue showing the user is far away from the answer
+and more red showing that they are getting closer.
+
+The user will continue to guess until they guess the country until they are correct, and
+then they will be directed to the game over screen.

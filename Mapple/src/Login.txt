@@ -1,0 +1,11 @@
+In this screen the user will be provided a login or create account option in order
+to associate the result of the game they play with a user.
+
+If they click login, a popup will appear containing a "Username" and "Password" field
+which the user will enter their credentials into in order to login
+
+Alternatively, the user can select "Create Account" to create a new account with a
+new username and password.
+
+Upon successfully logging in they with be taken to the How to Play screen where they can
+then launch the game.
