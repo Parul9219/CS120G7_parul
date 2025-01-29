@@ -1,0 +1,10 @@
+The Leaderboard section of the game will store and display data from all
+users of the game that are logged into an account and store their play data.
+The Leaderboard will allow users to view the scores of all other users with the
+user with the lowest average score ranking at the top and the highest at the bottom.
+The user will also be able to filter the leaderboard for different continents e.g.
+they will be able to filter for Europe and only european users will show on the
+Leaderboard. Also, the user should be able to click a button and find where they sit
+on the Leaderboard.
+The Leaderboard will display the position the users sit on the Leaderboard, their
+username and their average score.
